@@ -1,0 +1,7 @@
+pandas
+numpy
+xgboost
+scikit-learn
+selenium
+undetected-chromedriver
+openpyxl
