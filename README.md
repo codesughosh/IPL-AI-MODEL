@@ -16,3 +16,4 @@ It combines historical + 2024 match statistics with real-time scraping from ESPN
 
 ```bash
 pip install -r requirements.txt
+```
