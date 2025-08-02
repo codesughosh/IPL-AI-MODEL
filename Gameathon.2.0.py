@@ -6,7 +6,7 @@ import os
 
                                                                                                          #BOWLING
 # Define file path
-file_path = "C:/STORAGE/Code/IPL/New/deliveries.csv"
+file_path = "deliveries.csv"
 
 # Check if file exists
 if not os.path.exists(file_path):
@@ -971,7 +971,7 @@ import pandas as pd
 
 # === STEP 1: Load Excel Sheet with Team and Lineup Data ===
 # Replace this path with the actual Excel file path when running the script
-excel_file_path = "C:/Users/Snghosh kulkarni/Downloads/SquadPlayerNames_IndianT20League_Dup.xlsx"  # <-- USER: update this!
+excel_file_path = "SquadPlayerNames_IndianT20League_Dup.xlsx" 
 
 sheet_name = "Match_40"  # <-- USER: update this too if needed
 
