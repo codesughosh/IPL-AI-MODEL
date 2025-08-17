@@ -18,3 +18,6 @@ It combines historical + 2024 match statistics with real-time scraping from ESPN
 pip install -r requirements.txt
 ```
 2. Change the path of input files
+3. Make sure lineups are updated in SquadPlayerNames_IndianT20League_Dup.xlsx
+4. Choose required Match number. ex Match_27 for 27th Match
+5. Run Gameathon.2.0.py
